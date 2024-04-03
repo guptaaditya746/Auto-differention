@@ -1,5 +1,4 @@
 # AutoDiff-Paket
-# test
 
 ## Überblick
 
